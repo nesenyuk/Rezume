@@ -1,0 +1,49 @@
+.container{
+    padding:20px 0px 20px 300px;
+    background: url(http://m.io.ua/img_aa/medium/2415/17/24151750.jpg);
+    background-size: cover;
+}
+td:nth-child(2){
+    text-align: center;
+}
+td:first-child{
+    text-align: left;
+    font-style: italic;
+}
+td{
+    border:2px solid black;
+    padding:10px;
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+ul{
+    list-style-position:inside;
+}
+li{
+    margin:25px;
+}
+p{
+    margin:5px;
+}
+#fb{
+    width:40px;
+    height:40px;
+}
+#photo{
+    width:200px;
+    height:200px;
+    border: 2px solid black;
+    margin-bottom:20px ;
+    padding: 15px;
+}
+.name{
+    position:absolute;
+    right:360px;
+    top:175px;
+    font-size:40px;
+    border: 2px solid black;
+    padding: 20px;
+}
+
